@@ -14,7 +14,7 @@ Push, Cámara, Mapas, REST API, SQLite, CRUD, Tokens, Storage, Preferencias de u
 * [Mac OSX - XCode](https://itunes.apple.com/hn/app/xcode/id497799835?l=en&mt=12)
 
 
-# Plugins
+# Plugins del VSCode
 
 * [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets)
 
@@ -31,7 +31,7 @@ Push, Cámara, Mapas, REST API, SQLite, CRUD, Tokens, Storage, Preferencias de u
 * [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
 
 
-# Tema que estoy usando:
+# Tema para el VSCode:
 * [Monokai Night](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
 
 # Configuración del Bracket Pair Colorizer 2
