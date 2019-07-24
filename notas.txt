@@ -1,0 +1,38 @@
+# WIDGETS:
+
+Casi todo el flutter son widgets, un widget son como piezas de lego.
+Ejemplos:
+-AppBar
+-Botón flotante
+
+Hay 2 tipos:
++ StatelessWidget (sin estado, tiene propiedades constantes).
++ StatefulWidget (con estado, para saber propiedades que cambian, puede redibujarse al cambiar).
+
+# ÁRBOL DE WIDGETS:
+
+Unos dentro de otros...
+Scaffold -> fondo de la pantalla
+	AppBar -> Header
+	Contenedor -> tiene muchos widgets (text, cards. rows, personalizados,...)
+	TabBar -> Footer
+
+# ESTRUCTURA DE UN PROYECTO:
+.idea - mantener info de trabajo para el editor
+android, build y ios - son el producto de la compilación, pero a veces se modifican para adaptar funcionalida de y paquete.
+lib - donde se crea la aplicación de flutter, se hacen muchos directorios dentro.
+test - para realizar pruebas
+.metadata - para las propiedades del proyecto [no mover]
+.packages - no mover
+flutter_[name].iml - más metadata
+pubspec.lock - no mover
+pubspec.yaml - es como el package.json, para gestionar las dependencias, habilitar assets, etc. La tabulación es importante.
+	Actualizar dependencias: $ flutter packages get 
+	Es necesario hacer un full restart.
+ 
+
+
+
+
+
+
