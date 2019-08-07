@@ -29,7 +29,16 @@ pubspec.lock - no mover
 pubspec.yaml - es como el package.json, para gestionar las dependencias, habilitar assets, etc. La tabulación es importante.
 	Actualizar dependencias: $ flutter packages get 
 	Es necesario hacer un full restart.
- 
+
+# SNIPPETS
+Para crear el código base para una nueva material app, poner -> mateapp
+
+# ASSETS
+para habilitar el uso de recursos estáticos hay que editar pubspec.yml en assets:
+[ejemplo] -> - myFolder/menu_opt.json
+
+# FUTURE BUILDER
+Widget que permite dibujarse así mismo basado en el último snapshot de un Future (promise)
 
 
 
